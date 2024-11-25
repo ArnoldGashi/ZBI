@@ -1,0 +1,45 @@
+table {
+	border-collapse: collapse;
+	width: 80%;
+	max-width: 800px;
+	margin: 20px auto;
+	border: 1px solid black;
+	font-family: Arial, sans-serif;
+}
+th {
+	border-bottom: 2px solid black;
+	text-align: left;
+	padding: 10px;
+	font-weight: bold;
+	font-size: 14px;
+}
+td {
+	padding: 8px;
+}
+.font-size-12px td {
+	font-size: 12px;
+}
+.font-size-14px td {
+	font-size: 14px;
+}
+.font-size-16px td {
+	font-size: 16px;
+}
+.font-size-18px td {
+	font-size: 18px;
+}
+.font-size-20px td {
+	font-size: 20px;
+}
+.font-family-Arial td {
+	font-family: Arial, sans-serif;
+}
+.font-family-Verdana td {
+	font-family: Verdana, sans-serif;
+}
+.font-family-Times-New-Roman td {
+	font-family: 'Times New Roman', serif;
+}
+.font-family-Courier-New td {
+	font-family: 'Courier New', monospace;
+}

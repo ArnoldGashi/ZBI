@@ -1,0 +1,21 @@
+{
+	"name": "d3-typescript-example",
+	"version": "1.0.0",
+	"main": "./dist/main.js",
+	"scripts": {
+		"start": "parcel index.html",
+		"build": "parcel build index.html"
+	},
+	"keywords": [],
+	"author": "Arnold Gashi",
+	"license": "ISC",
+	"description": "An interactive tree structure visualization built with D3.js, TypeScript, and SCSS. The project allows toggling, skipping, and inverting values in a hierarchical data structure with calculated totals displayed dynamically.",
+	"dependencies": {
+		"d3": "^7.9.0"
+	},
+	"devDependencies": {
+		"@types/d3": "^7.4.3",
+		"parcel": "^2.13.0",
+		"typescript": "^5.6.3"
+	}
+}
